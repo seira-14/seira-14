@@ -1,6 +1,6 @@
-# Hi, I'm Alifah 👋
+# Hi there, I'm Alifah 👋
 
-## 🌱 About Me
+## About Me
 
 I'm an Informatics student from Indonesia who loves building mobile applications with Flutter.
 
@@ -31,6 +31,5 @@ Features:
 
 - Improving CapyMood UI
 - Learning Rive Animation
-- Preparing for Google Play release
 
 Thanks for visiting my profile!
