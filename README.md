@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an Informatics student from Indonesia who loves building mobile applications with Flutter.
+I'm an Information System student from Indonesia who loves building mobile applications with Flutter.
 
 Currently learning:
 
