@@ -139,7 +139,6 @@ Currently participating in a **hackathon**, working with a team to develop a tec
 | Data Mining | High |
 | Data Science | High |
 | Artificial Intelligence | High |
-| Machine Learning | High |
 | Data Analysis | High |
 | Web Development | High |
 | Mobile Development | High |
